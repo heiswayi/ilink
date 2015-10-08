@@ -6,15 +6,15 @@ iLink also is a simplified version of controversial [IsharePortal](https://wayi.
 
 Created in September 2013 for Universiti Sains Malaysia Engineering Campus students.
 
-###Screenshot
+##Screenshot
 ![Screenshot](screenshot.png)
 
-###Features
+##Features
 
 * Straightforward functional script for its purpose - HFS servers listing
 * Auto-check or monitor online-offline status of each link for every 15 minutes interval
 * No user registration required - link submission based on supplied passcode
 
-#License
+##License
 
-[MIT License](http://heiswayi.github.io/mit-license)
+MIT License

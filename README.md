@@ -1,20 +1,21 @@
-#About iLink
+# ilink
 
-iLink is a simple script written in PHP to monitor [HFS](http://www.rejetto.com/hfs/) servers submitted by sharers (aka students) and accessible to [Komuniti Ishare](https://www.facebook.com/groups/komuniti.ishare/) only.
+iLink is a simple script written in PHP to monitor [HFS](http://www.rejetto.com/hfs/) servers (popularly known as sharerlinks) submitted by sharers (e.g. students) and it is accessible to [Komuniti Ishare](https://www.facebook.com/groups/komuniti.ishare/) only.
 
 iLink also is a simplified version of controversial [IsharePortal](http://heiswayi.github.io/ishare-in-memory).
 
-Created in September 2013 for Universiti Sains Malaysia Engineering Campus students.
+Created in September 2013 for students in Universiti Sains Malaysia (USM) Engineering Campus.
 
-##Screenshot
+## Screenshot
+
 ![Screenshot](screenshot.png)
 
-##Features
+## Features
 
 * Straightforward functional script for its purpose - HFS servers listing
 * Auto-check or monitor online-offline status of each link for every 15 minutes interval
 * No user registration required - link submission based on supplied passcode
 
-##License
+## License
 
-MIT License
+[MIT](LICENSE)
